@@ -1,0 +1,18 @@
+# Local .terraform directories
+**/.terraform*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Local tfvars terraform.tfvars
+**/*.tfvars
+
+# tf lock file
+**/.terraform.lock.hcl
+
+container-types.json
+volume-types.json
+instance-types.json
+
+.env
