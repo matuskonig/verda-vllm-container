@@ -3,6 +3,9 @@
 This repository contains Terraform configuration for provisioning and managing
 VLLM serving Docker container on [Verda](https://verda.com) cloud provider.
 
+- [Verda Provider Docs](https://docs.verda.com/)
+- [Terraform Registry](https://registry.terraform.io/providers/verda-cloud/verda/latest/docs)
+
 ## Prerequisites
 
 - [Terraform](https://www.terraform.io/) installed on your machine
